@@ -1,1 +1,1 @@
-print("":ghhjhj")
+print("mp")
