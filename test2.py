@@ -1,1 +1,1 @@
-print("mp1 s")
+print("mp1 and")
